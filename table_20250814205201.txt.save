@@ -1,0 +1,43 @@
+Final Parent-Child Relationships
+DAG: fd00 OF: MRHOF
+Child Node
+9
+
+DAG: fd02 OF: MRHOF
+Child Node
+
+Final Parent
+
+1
+10
+11
+12
+15
+17
+18
+2
+20
+22
+23
+3
+4
+
+15
+9
+22
+2
+11
+20
+1
+12
+11
+4
+9
+11
+15
+
+Source: 10-RPL-20250814205201.txt
+
+Generated: 2025-08-14 21:20
+
+
