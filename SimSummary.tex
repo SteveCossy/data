@@ -1,20 +1,16 @@
 
-\documentclass[a4paper]{article}
-\usepackage[margin=2cm]{geometry}
-
-% --- FIX 1: Use fontspec for modern fonts and UTF-8 support with lualatex ---
+\documentclass[a4paper, landscape]{article}
+\usepackage[margin=1.5cm]{geometry}
 \usepackage{fontspec}
-% Latin Modern is a great default with excellent Unicode coverage but not good enough ...
 \setmainfont{Latin Modern Roman}
-
-% Set the monospaced font (used by \texttt and listings) to one
-% with better Unicode character coverage, like DejaVu Sans Mono.
-\setmonofont{DejaVu Sans Mono} % For \texttt and listings
+\setmonofont{DejaVu Sans Mono}
 
 \usepackage{graphicx}
 \usepackage{xcolor}
 \usepackage{listings}
 \usepackage{hyperref}
+\usepackage{tabularx} % For tables that fit the page width
+\usepackage{multirow} % For cells that span multiple rows
 
 \lstset{
     basicstyle=\ttfamily\small,
@@ -27,66 +23,18 @@
 \maketitle
 
 
-\section*{Simulation Run: 20250818124554}
-\subsection*{Source: \texttt{text\_20250818124554.txt}}
+% --- Entry for simulation 20250818124554 ---
+\begin{tabularx}{\textwidth}{|l|X|X|X|m{5.5cm}|}
+\hline
+\textbf{Start} & \textbf{Sim Run} & \textbf{Source File} & \multicolumn{2}{c|}{\textbf{DODAG 1 Graph}} \\
+\texttt{GMT+1200} & \texttt{20250818124554} & \texttt{text\_20250818124554.txt} & \multicolumn{2}{c|}{\includegraphics[page=1, height=2.5cm, keepaspectratio]{/home/stevecos/data/graph_20250818124554.pdf}} \\
+\hline
+\textbf{Finish} & \textbf{MOP} & \textbf{OFs} & \multicolumn{2}{c|}{\textbf{DODAG 2 Graph}} \\
+\texttt{18 Aug 12:48} & \texttt{N/A} & \texttt{N/A} & \multicolumn{2}{c|}{\includegraphics[page=2, height=2.5cm, keepaspectratio]{/home/stevecos/data/graph_20250818124554.pdf}} \\
+\hline
+\textbf{Notes} & \multicolumn{4}{l|}{} \\ % Empty notes cell spanning 4 columns
+\hline
+\end{tabularx}
+\vspace{1cm}
 
-\begin{tabular}{@{}ll}
-\textbf{Start Time:} & Mon Aug 18 2025 12:45:54 GMT+1200 (NZST) \\
-\textbf{Finish Time:} & 18 Aug 12:48 \\
-\textbf{Mode of Op:} & \texttt{N/A} \\
-\textbf{Objective Funcs:} & \texttt{N/A} \\
-\end{tabular}
-
-\subsection*{Final Topology Summary}
-\begin{lstlisting}
- DAG: fd00 (OF: OF0)
-└── Root: 9
-├── 1
-├── 10
-├── 11
-├── 12
-├── 15
-├── 17
-├── 18
-├── 2
-├── 20
-├── 22
-├── 23
-├── 3
-└── 4
- DAG: fd02 (OF: OF0)
-└── Root: 9
-├── 1
-├── 10
-├── 11
-├── 12
-├── 15
-├── 18
-├── 2
-├── 20
-├── 22
-├── 23
-├── 3
-└── 4
-└── 17
-\end{lstlisting}
-
-\subsection*{Visual Topology}
-\begin{figure}
-    \centering
-    \begin{minipage}{0.48\textwidth}
-        \centering
-        \includegraphics[page=1, width=\textwidth, trim=0 1cm 0 1cm, clip]{/home/stevecos/data/graph_20250818124554.pdf}
-        \caption*{DODAG 1}
-    \end{minipage}
-    \hfill
-    \begin{minipage}{0.48\textwidth}
-        \centering
-        \includegraphics[page=2, width=\textwidth, trim=0 1cm 0 1cm, clip]{/home/stevecos/data/graph_20250818124554.pdf}
-        \caption*{DODAG 2 (if present)}
-    \end{minipage}
-\end{figure}
-
-\hrule
-\clearpage
 \end{document}
