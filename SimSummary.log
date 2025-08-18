@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.21.0 (Web2C 2025)  (format=lualatex 2025.6.13)  18 AUG 2025 23:19
+This is LuaTeX, Version 1.21.0 (Web2C 2025)  (format=lualatex 2025.6.13)  18 AUG 2025 23:32
  restricted system commands enabled.
 **/home/stevecos/data/SimSummary.tex
 (/home/stevecos/data/SimSummary.tex
@@ -412,14 +412,14 @@ LaTeX Font Info:    ... okay on input line 15.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: landscape 
 * h-part:(L,W,R)=(42.67912pt, 759.6886pt, 42.67912pt)
-* v-part:(T,H,B)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 483.69687pt, 56.9055pt)
 * \paperwidth=845.04684pt
 * \paperheight=597.50787pt
 * \textwidth=759.6886pt
-* \textheight=512.14963pt
+* \textheight=483.69687pt
 * \oddsidemargin=-29.59087pt
 * \evensidemargin=-29.59087pt
-* \topmargin=-66.59087pt
+* \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -534,163 +534,944 @@ Package hyperref Info: Link coloring OFF on input line 15.
 
 \openout3 = SimSummary.out
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 29.
+(Font)              <12> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 29.
+(Font)              <8> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 29.
-File: /home/stevecos/data/graph_20250812114659.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812114659.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250812114659.pdf , page1 u
-sed on input line 57.
-(luatex.def)             Requested size: 118.80309pt x 113.8112pt.
-File: /home/stevecos/data/graph_20250812114659.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812114659.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250812114659.pdf , page2 u
-sed on input line 57.
-(luatex.def)             Requested size: 175.57062pt x 33.22481pt.
-File: /home/stevecos/data/graph_20250812114659.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812114659.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250812114659.pdf , page1 u
-sed on input line 87.
-(luatex.def)             Requested size: 118.80309pt x 113.8112pt.
-File: /home/stevecos/data/graph_20250812114659.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812114659.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250812114659.pdf , page2 u
-sed on input line 87.
-(luatex.def)             Requested size: 175.57062pt x 33.22481pt.
+(Font)              <6> on input line 21.
 
-Overfull \hbox (50.92805pt too wide) in paragraph at lines 117--117
-[]|\TU/DejaVuSansMono(0)/m/n/10 RPL_MOP_STORING_MULTICAST| 
- []
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.47 \end{tabularx}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-File: /home/stevecos/data/graph_20250818124554.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250818124554.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250818124554.pdf , page1 u
-sed on input line 117.
-(luatex.def)             Requested size: 175.5766pt x 24.52357pt.
-File: /home/stevecos/data/graph_20250818124554.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250818124554.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250818124554.pdf , page2 u
-sed on input line 117.
-(luatex.def)             Requested size: 175.57224pt x 41.67871pt.
+! Missing } inserted.
+<inserted text> 
+                }
+l.47 \end{tabularx}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
+! Missing } inserted.
+<inserted text> 
+                }
+l.47 \end{tabularx}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-[1
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}</home/stevecos/data/graph_20
-250812114659.pdf></home/stevecos/data/graph_20250812114659.pdf>]
-Overfull \hbox (8.24892pt too wide) in paragraph at lines 146--146
-[]|\TU/DejaVuSansMono(0)/m/n/10 RPL_MOP_STORING_MULTICAST| 
- []
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-File: /home/stevecos/data/graph_20250818124554.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250818124554.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250818124554.pdf , page1 u
-sed on input line 146.
-(luatex.def)             Requested size: 175.5766pt x 24.52357pt.
-File: /home/stevecos/data/graph_20250818124554.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250818124554.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250818124554.pdf , page2 u
-sed on input line 146.
-(luatex.def)             Requested size: 175.57224pt x 41.67871pt.
-File: /home/stevecos/data/graph_20250812114659.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812114659.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250812114659.pdf , page1 u
-sed on input line 175.
-(luatex.def)             Requested size: 118.80309pt x 113.8112pt.
-File: /home/stevecos/data/graph_20250812114659.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812114659.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250812114659.pdf , page2 u
-sed on input line 175.
-(luatex.def)             Requested size: 175.57062pt x 33.22481pt.
-File: /home/stevecos/data/graph_20250812114659.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812114659.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250812114659.pdf , page1 u
-sed on input line 205.
-(luatex.def)             Requested size: 118.80309pt x 113.8112pt.
-File: /home/stevecos/data/graph_20250812114659.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812114659.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250812114659.pdf , page2 u
-sed on input line 205.
-(luatex.def)             Requested size: 175.57062pt x 33.22481pt.
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
 
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-[2</home/stevecos/data/graph_20250818124554.pdf></home/stevecos/data/graph_20250
-818124554.pdf>]
-File: /home/stevecos/data/graph_20250812114659.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812114659.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250812114659.pdf , page1 u
-sed on input line 235.
-(luatex.def)             Requested size: 118.80309pt x 113.8112pt.
-File: /home/stevecos/data/graph_20250812114659.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812114659.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250812114659.pdf , page2 u
-sed on input line 235.
-(luatex.def)             Requested size: 175.57062pt x 33.22481pt.
-File: /home/stevecos/data/graph_20250818124554.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250818124554.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250818124554.pdf , page1 u
-sed on input line 265.
-(luatex.def)             Requested size: 175.5766pt x 24.52357pt.
-File: /home/stevecos/data/graph_20250818124554.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250818124554.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250818124554.pdf , page2 u
-sed on input line 265.
-(luatex.def)             Requested size: 175.57224pt x 41.67871pt.
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
 
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-[3]
-File: /home/stevecos/data/graph_20250818124554.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250818124554.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250818124554.pdf , page1 u
-sed on input line 296.
-(luatex.def)             Requested size: 175.5766pt x 24.52357pt.
-File: /home/stevecos/data/graph_20250818124554.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250818124554.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250818124554.pdf , page2 u
-sed on input line 296.
-(luatex.def)             Requested size: 175.57224pt x 41.67871pt.
-File: /home/stevecos/data/graph_20250818124554.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250818124554.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250818124554.pdf , page1 u
-sed on input line 327.
-(luatex.def)             Requested size: 175.5766pt x 24.52357pt.
-File: /home/stevecos/data/graph_20250818124554.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250818124554.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250818124554.pdf , page2 u
-sed on input line 327.
-(luatex.def)             Requested size: 175.57224pt x 41.67871pt.
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
 
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-[4] (./data/SimSummary.aux)
- ***********
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-04-14>
- ***********
-Package rerunfilecheck Info: File `SimSummary.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-)
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.47 \end{tabularx}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.47 \end{tabularx}
+                   
+(That makes 100 errors; please try again.)
 
 Here is how much of LuaTeX's memory you used:
- 13669 strings out of 471925
+ 13452 strings out of 471925
  100000,794899 words of node,token memory allocated
- 416 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
- 4 attribute_list, 1 write nodes
-   avail lists: 2:1256,3:338,4:21,5:222,6:163,7:2410,8:1,9:1375,10:3,11:25
- 39879 multiletter control sequences out of 65536+600000
+ 4771 words of node memory still in use:
+   43 hlist, 16 vlist, 59 rule, 7 disc, 17 local_par, 4 dir, 2 math, 164 glue, 2
+3 kern, 31 penalty, 21 unset, 145 glyph, 4 align_record, 2 span, 127 attribute, 
+54 glue_spec, 127 attribute_list, 10 temp, 1 align_stack, 1 write, 1 pdf_dest, 3
+ pdf_colorstack nodes
+   avail lists: 2:2,4:4,5:9,8:1,10:3
+ 39852 multiletter control sequences out of 65536+600000
  64 fonts using 9912399 bytes
- 73i,15n,92p,276b,419s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/pkg/share/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/
-pkg/share/fonts/X11/TTF/DejaVuSansMono.ttf></usr/pkg/share/texmf-dist/fonts/open
-type/public/lm/lmroman10-bold.otf></usr/pkg/share/texmf-dist/fonts/opentype/publ
-ic/lm/lmroman12-regular.otf></usr/pkg/share/texmf-dist/fonts/opentype/public/lm/
-lmroman17-regular.otf>
-Output written on SimSummary.pdf (4 pages, 47339 bytes).
-
-PDF statistics: 84 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 100000000)
-
+ 73i,10n,92p,276b,267s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
