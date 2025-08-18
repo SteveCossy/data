@@ -120,7 +120,6 @@ INPUT /usr/pkg/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT /usr/pkg/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT /usr/pkg/share/texmf-dist/tex/latex/tools/tabularx.sty
 INPUT /usr/pkg/share/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/pkg/share/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT ./data/SimSummary.aux
 OUTPUT data/SimSummary.aux
 INPUT /usr/pkg/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -156,3 +155,14 @@ INPUT /usr/pkg/share/texmf-dist/fonts/tfm/public/cm/cmsy5.tfm
 INPUT /usr/pkg/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/pkg/share/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
 INPUT /usr/pkg/share/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
+INPUT /home/stevecos/data/graph_20250818124554.pdf
+INPUT /home/stevecos/data/graph_20250818124554.pdf
+INPUT /home/stevecos/data/graph_20250818124554.pdf
+INPUT /home/stevecos/data/graph_20250818124554.pdf
+INPUT /home/stevecos/data/graph_20250818124554.pdf
+INPUT /home/stevecos/data/graph_20250818124554.pdf
+INPUT /home/stevecos/data/graph_20250818124554.pdf
+INPUT /home/stevecos/data/graph_20250818124554.pdf
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./data/SimSummary.aux
+INPUT ./data/SimSummary.out
