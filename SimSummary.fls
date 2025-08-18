@@ -116,6 +116,12 @@ INPUT /usr/pkg/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /usr/pkg/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/pkg/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/pkg/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT ./SimSummary.out
+INPUT ./SimSummary.out
+INPUT SimSummary.out
+INPUT SimSummary.out
+INPUT ./SimSummary.out
+INPUT ./SimSummary.out
 OUTPUT SimSummary.out
 OUTPUT SimSummary.pdf
 INPUT /usr/pkg/share/texmf-dist/fonts/map/fontname/texfonts.map
