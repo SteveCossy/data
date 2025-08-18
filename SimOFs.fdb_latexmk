@@ -1,0 +1,22 @@
+# Fdb version 4
+["pdflatex"] 1755552240.15745 "/home/stevecos/data/SimOFs.tex" "SimOFs.pdf" "SimOFs" 1755552240.29448 2
+  "/etc/texmf/texmf.cnf" 1749524910 41417 52778f1c32b333fc8558c3678a0dc206 ""
+  "/home/stevecos/data/SimOFs.tex" 1755552239.39878 1807 10a7f6539900e8d901a1f6b2e3d8651f ""
+  "/usr/pkg/share/texmf-dist/tex/generic/iftex/iftex.sty" 1749545615 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
+  "/usr/pkg/share/texmf-dist/tex/generic/iftex/ifvtex.sty" 1749545615 1057 525c2192b5febbd8c1f662c9468335bb ""
+  "/usr/pkg/share/texmf-dist/tex/latex/base/article.cls" 1749778230 20144 63d8bacaf52e5abf4db3bc322373e1d4 ""
+  "/usr/pkg/share/texmf-dist/tex/latex/base/size10.clo" 1749778230 8448 5cf247d4bd0c7d5d711bbbdf111fae2e ""
+  "/usr/pkg/share/texmf-dist/tex/latex/fontspec/fontspec.sty" 1749784261 3755 4872b99d810c024f9c09bb1c62ffee3b ""
+  "/usr/pkg/share/texmf-dist/tex/latex/geometry/geometry.sty" 1749780499 41601 9cf6c5257b1bc7af01a58859749dd37a ""
+  "/usr/pkg/share/texmf-dist/tex/latex/graphics/keyval.sty" 1749611044 2671 70891d50dac933918b827d326687c6e8 ""
+  "/usr/pkg/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1749544195 30366 13daaaa774357bc2a262523ba6a04bac ""
+  "/usr/pkg/share/texmf-dist/tex/latex/l3kernel/expl3.sty" 1749780466 6558 e00ead217769dd82217e7c94d181dc63 ""
+  "/usr/pkg/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1749783022 9783 ab4bee47700c04aadedb8da27591b0ab ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1749783441 3121482 3942e6b9090ca49e9bc757fa9ebef9c1 ""
+  "SimOFs.aux" 1755552240.1562 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "SimOFs.tex" 1755552239.39878 1807 10a7f6539900e8d901a1f6b2e3d8651f ""
+  (generated)
+  "SimOFs.aux"
+  "SimOFs.log"
+  "SimOFs.pdf"
+  (rewritten before read)
