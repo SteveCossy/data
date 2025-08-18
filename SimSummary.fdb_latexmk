@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1755513592.51192 "/home/stevecos/data/SimSummary.tex" "data/SimSummary.pdf" "SimSummary" 1755513593.83147 0
+["lualatex"] 1755514161.8876 "/home/stevecos/data/SimSummary.tex" "data/SimSummary.pdf" "SimSummary" 1755514163.24962 0
   ".texlive2025/texmf-var/luatex-cache/generic/fonts/otl/dejavusansmono-bold.luc" 1755483775.88569 349150 88029ba975018c27f0144f3df92f8904 ""
   ".texlive2025/texmf-var/luatex-cache/generic/fonts/otl/dejavusansmono-boldoblique.luc" 1755483775.81471 270968 6c7b8b567ea344b4e5220e78d1d29141 ""
   ".texlive2025/texmf-var/luatex-cache/generic/fonts/otl/dejavusansmono-oblique.luc" 1755483775.9497 270378 c8d111189e5deb1c9f04c7948e0d7d6f ""
@@ -16,7 +16,7 @@
   ".texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman8-regular.luc" 1751587704.01461 128137 b404c5497e54976e101ba258f004151f ""
   ".texlive2025/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1755483928.24047 6410 ed833bacecbe20e88115198bd22336c8 ""
   ".texlive2025/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1751423737.47759 299389 a5e829c2c4ced362834ea26afb0cdf16 ""
-  "/home/stevecos/data/SimSummary.tex" 1755513592.42604 2601 60912d1f84f57152b31662908d895d08 ""
+  "/home/stevecos/data/SimSummary.tex" 1755514161.7946 5736 e1bdcc18a96032fc9926b0075a1a853d ""
   "/usr/pkg/share/fonts/X11/TTF/DejaVuSansMono.ttf" 1702130386 340712 c2356fc49835b1870dcc5b07799b4920 ""
   "/usr/pkg/share/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf" 1749727390 111240 0af0b64d6d3df41bead3f9de314afbd4 ""
   "/usr/pkg/share/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf" 1749727390 111536 ae9d1b331000d544f47e5223081b7b54 ""
@@ -149,10 +149,11 @@
   "/usr/pkg/share/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1749779518 13566 16df94dd2de231b2bca0aaa0190941fe ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1753397656 3658076 433b79a69db6851b9a82d91270c6f410 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1749783450 6381498 b3d166c729a775aa4864aeef1df26aa9 ""
-  "data/SimSummary.aux" 1755513593.68722 162 55205a9e8a8eca30d36afb389b0617bf "lualatex"
-  "data/SimSummary.out" 1755513593.53679 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "data/SimSummary.tex" 1755513592.42604 2601 60912d1f84f57152b31662908d895d08 ""
+  "data/SimSummary.aux" 1755514163.0999 162 87159b23cce7c2b923b11c85495bbd6d "lualatex"
+  "data/SimSummary.out" 1755514162.87897 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "data/SimSummary.tex" 1755514161.7946 5736 e1bdcc18a96032fc9926b0075a1a853d ""
   "data/graph_20250812114659.pdf" 1754959221.30656 8561 a03cfeb51c07dba3b1f5754eaf25d048 ""
+  "data/graph_20250818124554.pdf" 1755478442.65759 6923 d5ae4717c69ec2968859d2f0ecb194e4 ""
   (generated)
   "data/SimSummary.aux"
   "data/SimSummary.log"
