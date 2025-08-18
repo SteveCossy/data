@@ -10,6 +10,25 @@
 \usepackage{listings}
 \usepackage{hyperref}
 \usepackage{tabularx}
+
+\begin{document}
+\title{Simulation Run Summary}
+\author{Contiki-NG RPL Project}
+\date{\today}
+\maketitle
+
+
+\documentclass[a4paper, landscape]{article}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{fontspec}
+\setmainfont{Latin Modern Roman}
+\setmonofont{DejaVu Sans Mono}
+
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage{tabularx}
 \usepackage{multirow} % <-- REQUIRED FOR SPANNING ROWS
 
 \begin{document}
@@ -34,6 +53,39 @@
 \textbf{Notes} & \multicolumn{3}{l|}{} \\
 \hline
 \end{tabular}
+\vspace{1cm}
+
+
+% --- Entry for simulation 20250812114659 ---
+\begin{tabularx}{\textwidth}{| p{2cm} | p{3cm} | p{4cm} | X |}
+\hline
+% --- ROW 1: HEADERS ---
+\textbf{Start} & \textbf{Sim Run} & \textbf{Source File} & \textbf{Notes} \\
+\hline
+% --- ROW 2: DATA (TOP) ---
+\texttt{11:46:59} & \texttt{20250812114659} & \texttt{text\_20250812114659.txt} & \multirow{3}{*}{} \\ % Notes cell spans 3 rows
+\cline{1-3}
+% --- ROW 3: DATA (BOTTOM) ---
+\textbf{Finish} & \textbf{MOP} & \textbf{OFs} & \\
+\cline{1-3}
+% --- ROW 4: DATA (BOTTOM) ---
+\texttt{12:30} & \texttt{N/A} & \texttt{N/A} & \\
+
+\hline
+\multicolumn{4}{|p{\textwidth}|}{%
+    \begin{minipage}[t]{0.5\textwidth}
+        \centering
+        \textbf{DODAG 1 Graph}\\
+        \includegraphics[page=1, width=0.45\linewidth, keepaspectratio]{/home/stevecos/data/graph_20250812114659.pdf}
+    \end{minipage}%
+    \begin{minipage}[t]{0.5\textwidth}
+        \centering
+        \textbf{DODAG 2 Graph}\\
+        \includegraphics[page=2, width=0.45\linewidth, keepaspectratio]{/home/stevecos/data/graph_20250812114659.pdf}
+    \end{minipage}
+} \\
+\hline
+\end{tabularx}
 \vspace{1cm}
 
 \end{document}
