@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.21.0 (Web2C 2025)  (format=lualatex 2025.6.13)  20 AUG 2025 14:01
+This is LuaTeX, Version 1.21.0 (Web2C 2025)  (format=lualatex 2025.6.13)  20 AUG 2025 17:03
  restricted system commands enabled.
 **/home/stevecos/data/SimSummary.tex
 (/home/stevecos/data/SimSummary.tex
@@ -371,7 +371,7 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \TX@delta=\dimen173
 \TX@cols=\count313
 \TX@ftn=\toks22
-) (./data/SimSummary.aux)
+) (./SimSummary.aux)
 \openout1 = SimSummary.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -521,16 +521,16 @@ e
 \c@lstlisting=\count320
 Package hyperref Info: Link coloring OFF on input line 14.
 
-(./data/SimSummary.out) (./data/SimSummary.out)
+(./SimSummary.out) (./SimSummary.out)
 \@outlinefile=\write3
 
 \openout3 = SimSummary.out
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 22.
+(Font)              <12> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
+(Font)              <8> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
+(Font)              <6> on input line 23.
 
 
 ! LaTeX Error: There's no line here to end.
@@ -539,14 +539,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.26 \\n
+l.27 \\n
         oindent
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Misplaced alignment tab character &.
-l.30 \\textbf{Start Time} &
+l.31 \\textbf{Start Time} &
                             \\textbf{Sim Run ID} & \\textbf{Run Date} & \\te...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -556,7 +556,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.30 \\textbf{Start Time} & \\textbf{Sim Run ID} &
+l.31 \\textbf{Start Time} & \\textbf{Sim Run ID} &
                                                    \\textbf{Run Date} & \\te...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -566,7 +566,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.30 ...\textbf{Sim Run ID} & \\textbf{Run Date} &
+l.31 ...\textbf{Sim Run ID} & \\textbf{Run Date} &
                                                    \\textbf{Notes} \\\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -576,7 +576,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.31 \\texttt{12:21:46} &
+l.32 \\texttt{12:21:46} &
                           \\texttt{20250820122146} & \\texttt{Aug 20} & \\\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -586,7 +586,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.31 ...ttt{12:21:46} & \\texttt{20250820122146} &
+l.32 ...ttt{12:21:46} & \\texttt{20250820122146} &
                                                    \\texttt{Aug 20} & \\\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -596,7 +596,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.31 ...exttt{20250820122146} & \\texttt{Aug 20} &
+l.32 ...exttt{20250820122146} & \\texttt{Aug 20} &
                                                    \\\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -606,7 +606,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.34 \\textbf{Finish Time} &
+l.35 \\textbf{Finish Time} &
                              \\multicolumn{2}{l|}{\\textbf{MOP \& OFs}} & \\...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -616,7 +616,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.34 ...multicolumn{2}{l|}{\\textbf{MOP \& OFs}} &
+l.35 ...multicolumn{2}{l|}{\\textbf{MOP \& OFs}} &
                                                    \\\\ % Merged MOP & OFs h...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -626,7 +626,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.36 \\texttt{12:25} &
+l.37 \\texttt{12:25} &
                        \\multicolumn{2}{p{8.5cm}|}{\begin{minipage}[t]{\line...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -636,7 +636,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.37 ...: MRHOF)fd02 (OF: MRHOF)}\end{minipage}} &
+l.38 ...: MRHOF)fd02 (OF: MRHOF)}\end{minipage}} &
                                                    \\\\ % Merged data cell
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -646,59 +646,59 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--38
+Underfull \hbox (badness 10000) in paragraph at lines 27--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--38
+Underfull \hbox (badness 10000) in paragraph at lines 27--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--38
+Underfull \hbox (badness 10000) in paragraph at lines 27--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--38
+Underfull \hbox (badness 10000) in paragraph at lines 27--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--38
+Underfull \hbox (badness 10000) in paragraph at lines 27--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--38
+Underfull \hbox (badness 10000) in paragraph at lines 27--39
 
  []
 
 
-Overfull \hbox (93.62pt too wide) in paragraph at lines 26--38
+Overfull \hbox (93.62pt too wide) in paragraph at lines 27--39
 \TU/LatinModernRoman(0)/m/n/10 multicolumn2p8.5cm|[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--38
+Underfull \hbox (badness 10000) in paragraph at lines 27--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--38
+Underfull \hbox (badness 10000) in paragraph at lines 27--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--38
+Underfull \hbox (badness 10000) in paragraph at lines 27--39
 
  []
 
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.39 \hline
+l.40 \hline
            
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -706,7 +706,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.49 }
+l.50 }
        \\
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -714,7 +714,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.49 }
+l.50 }
        \\
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -725,7 +725,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.49 }
+l.50 }
        \\
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -733,7 +733,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.49 }
+l.50 }
        \\
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -744,7 +744,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.49 }
+l.50 }
        \\
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -752,7 +752,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.49 }
+l.50 }
        \\
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -763,7 +763,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.49 }
+l.50 }
        \\
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -773,22 +773,22 @@ an alignment. Proceed, and I'll ignore this case.
 File: /home/stevecos/data/graph_20250820122146.pdf Graphic file (type pdf)
 <use /home/stevecos/data/graph_20250820122146.pdf, page 1>
 Package luatex.def Info: /home/stevecos/data/graph_20250820122146.pdf , page1 u
-sed on input line 49.
+sed on input line 50.
 (luatex.def)             Requested size: 175.57742pt x 24.46867pt.
 </home/stevecos/data/graph_20250820122146.pdf, id=5, page=2, 335.69214pt x 78.3
 2262pt>
 File: /home/stevecos/data/graph_20250820122146.pdf Graphic file (type pdf)
 <use /home/stevecos/data/graph_20250820122146.pdf, page 2>
 Package luatex.def Info: /home/stevecos/data/graph_20250820122146.pdf , page2 u
-sed on input line 49.
+sed on input line 50.
 (luatex.def)             Requested size: 175.57512pt x 40.96461pt.
 
-Overfull \hbox (2.2pt too wide) in paragraph at lines 49--53
+Overfull \hbox (2.2pt too wide) in paragraph at lines 50--54
 []|[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--53
+Underfull \hbox (badness 10000) in paragraph at lines 50--54
 
  []
 
@@ -800,29 +800,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--53
 File: /home/stevecos/data/graph_20250820122146.pdf Graphic file (type pdf)
 <use /home/stevecos/data/graph_20250820122146.pdf, page 1>
 Package luatex.def Info: /home/stevecos/data/graph_20250820122146.pdf , page1 u
-sed on input line 81.
+sed on input line 82.
 (luatex.def)             Requested size: 175.57742pt x 24.46867pt.
 File: /home/stevecos/data/graph_20250820122146.pdf Graphic file (type pdf)
 <use /home/stevecos/data/graph_20250820122146.pdf, page 2>
 Package luatex.def Info: /home/stevecos/data/graph_20250820122146.pdf , page2 u
-sed on input line 81.
+sed on input line 82.
 (luatex.def)             Requested size: 175.57512pt x 40.96461pt.
 File: /home/stevecos/data/graph_20250820122146.pdf Graphic file (type pdf)
 <use /home/stevecos/data/graph_20250820122146.pdf, page 1>
 Package luatex.def Info: /home/stevecos/data/graph_20250820122146.pdf , page1 u
-sed on input line 111.
+sed on input line 112.
 (luatex.def)             Requested size: 175.57742pt x 24.46867pt.
 File: /home/stevecos/data/graph_20250820122146.pdf Graphic file (type pdf)
 <use /home/stevecos/data/graph_20250820122146.pdf, page 2>
 Package luatex.def Info: /home/stevecos/data/graph_20250820122146.pdf , page2 u
-sed on input line 111.
+sed on input line 112.
 (luatex.def)             Requested size: 175.57512pt x 40.96461pt.
 
 
 [2</home/stevecos/data/graph_20250820122146.pdf></home/stevecos/data/graph_20250
 820122146.pdf>]
+File: /home/stevecos/data/graph_20250820163815.pdf Graphic file (type pdf)
+<use /home/stevecos/data/graph_20250820163815.pdf, page 1>
+Package luatex.def Info: /home/stevecos/data/graph_20250820163815.pdf , page1 u
+sed on input line 172.
+(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
+File: /home/stevecos/data/graph_20250820163815.pdf Graphic file (type pdf)
+<use /home/stevecos/data/graph_20250820163815.pdf, page 2>
+Package luatex.def Info: /home/stevecos/data/graph_20250820163815.pdf , page2 u
+sed on input line 172.
+(luatex.def)             Requested size: 175.57512pt x 40.96461pt.
 
-[3] (./data/SimSummary.aux)
+
+[3</home/stevecos/data/graph_20250820163815.pdf></home/stevecos/data/graph_20250
+820163815.pdf>] (./SimSummary.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
@@ -832,13 +844,13 @@ Package rerunfilecheck Info: File `SimSummary.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13451 strings out of 471925
+ 13479 strings out of 471925
  100000,794899 words of node,token memory allocated
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
    avail lists: 2:1071,3:240,4:21,5:159,6:116,7:2017,8:1,9:950,10:7,11:27
- 39805 multiletter control sequences out of 65536+600000
+ 39815 multiletter control sequences out of 65536+600000
  65 fonts using 10044087 bytes
  73i,15n,92p,276b,420s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/pkg/share/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></usr/p
@@ -847,10 +859,10 @@ fonts/X11/TTF/DejaVuSansMono.ttf></usr/pkg/share/texmf-dist/fonts/opentype/publi
 c/lm/lmroman10-regular.otf></usr/pkg/share/texmf-dist/fonts/opentype/public/lm/l
 mroman12-regular.otf></usr/pkg/share/texmf-dist/fonts/opentype/public/lm/lmroman
 17-regular.otf>
-Output written on SimSummary.pdf (3 pages, 47234 bytes).
+Output written on SimSummary.pdf (3 pages, 54196 bytes).
 
-PDF statistics: 75 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+PDF statistics: 87 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
