@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.21.0 (Web2C 2025)  (format=lualatex 2025.6.13)  20 AUG 2025 13:01
+This is LuaTeX, Version 1.21.0 (Web2C 2025)  (format=lualatex 2025.6.13)  20 AUG 2025 13:37
  restricted system commands enabled.
 **/home/stevecos/data/SimSummary.tex
 (/home/stevecos/data/SimSummary.tex
@@ -526,506 +526,301 @@ Package hyperref Info: Link coloring OFF on input line 14.
 
 \openout3 = SimSummary.out
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 61.
+(Font)              <12> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 61.
+(Font)              <8> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 61.
-File: /home/stevecos/data/graph_20250801095847.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250801095847.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250801095847.pdf , page1 u
-sed on input line 90.
-(luatex.def)             Requested size: 175.5827pt x 61.60658pt.
-File: /home/stevecos/data/graph_20250801095847.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250801095847.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250801095847.pdf , page2 u
-sed on input line 90.
-(luatex.def)             Requested size: 136.35411pt x 113.81683pt.
-File: /home/stevecos/data/graph_20250801102821.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250801102821.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250801102821.pdf , page1 u
-sed on input line 120.
-(luatex.def)             Requested size: 175.57593pt x 64.56136pt.
-File: /home/stevecos/data/graph_20250801102821.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250801102821.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250801102821.pdf , page2 u
-sed on input line 120.
-(luatex.def)             Requested size: 50.43654pt x 113.81085pt.
+(Font)              <6> on input line 21.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \\n
+        oindent
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.29 \\textbf{Start Time} &
+                            \\textbf{Sim Run ID} & \\textbf{Run Date} & \\te...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.29 \\textbf{Start Time} & \\textbf{Sim Run ID} &
+                                                   \\textbf{Run Date} & \\te...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.29 ...\textbf{Sim Run ID} & \\textbf{Run Date} &
+                                                   \\textbf{Notes} \\\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.30 \\texttt{12:21:46} &
+                          \\texttt{20250820122146} & \\texttt{Aug 20} & \\\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.30 ...ttt{12:21:46} & \\texttt{20250820122146} &
+                                                   \\texttt{Aug 20} & \\\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.30 ...exttt{20250820122146} & \\texttt{Aug 20} &
+                                                   \\\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.33 \\textbf{Finish Time} &
+                             \\multicolumn{2}{l|}{\\textbf{MOP \& OFs}} & \\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.33 ...multicolumn{2}{l|}{\\textbf{MOP \& OFs}} &
+                                                   \\\\ % Merged MOP & OFs h...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.35 \\texttt{12:25} &
+                       \\multicolumn{2}{p{8.5cm}|}{\begin{minipage}[t]{\line...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.36 ...: MRHOF)fd02 (OF: MRHOF)}\end{minipage}} &
+                                                   \\\\ % Merged data cell
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--37
+
+ []
+
+
+Overfull \hbox (93.62pt too wide) in paragraph at lines 25--37
+\TU/LatinModernRoman(0)/m/n/10 multicolumn2p8.5cm|[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--37
+
+ []
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.38 \hline
+           
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.48 }
+       \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.48 }
+       \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.48 }
+       \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.48 }
+       \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.48 }
+       \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.48 }
+       \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.48 }
+       \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+</home/stevecos/data/graph_20250820122146.pdf, id=4, page=1, 363.69777pt x 50.6
+8536pt>
+File: /home/stevecos/data/graph_20250820122146.pdf Graphic file (type pdf)
+<use /home/stevecos/data/graph_20250820122146.pdf, page 1>
+Package luatex.def Info: /home/stevecos/data/graph_20250820122146.pdf , page1 u
+sed on input line 48.
+(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
+</home/stevecos/data/graph_20250820122146.pdf, id=5, page=2, 335.69214pt x 78.3
+2262pt>
+File: /home/stevecos/data/graph_20250820122146.pdf Graphic file (type pdf)
+<use /home/stevecos/data/graph_20250820122146.pdf, page 2>
+Package luatex.def Info: /home/stevecos/data/graph_20250820122146.pdf , page2 u
+sed on input line 48.
+(luatex.def)             Requested size: 175.57512pt x 40.96461pt.
+
+Overfull \hbox (2.2pt too wide) in paragraph at lines 48--52
+[]|[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--52
+
+ []
+
 
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}</home/stevecos/data/graph_20
-250801095847.pdf></home/stevecos/data/graph_20250801095847.pdf>]
-File: /home/stevecos/data/graph_20250801105824.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250801105824.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250801105824.pdf , page1 u
-sed on input line 150.
-(luatex.def)             Requested size: 128.70917pt x 113.80972pt.
-File: /home/stevecos/data/graph_20250801105824.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250801105824.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250801105824.pdf , page2 u
-sed on input line 150.
-(luatex.def)             Requested size: 175.57735pt x 75.60146pt.
-File: /home/stevecos/data/graph_20250801112448.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250801112448.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250801112448.pdf , page1 u
-sed on input line 180.
-(luatex.def)             Requested size: 175.58432pt x 90.98178pt.
-File: /home/stevecos/data/graph_20250801112448.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250801112448.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250801112448.pdf , page2 u
-sed on input line 180.
-(luatex.def)             Requested size: 160.4969pt x 113.81245pt.
-
-
-[2</home/stevecos/data/graph_20250801102821.pdf></home/stevecos/data/graph_20250
-801102821.pdf></home/stevecos/data/graph_20250801105824.pdf></home/stevecos/data
-/graph_20250801105824.pdf>]
-File: /home/stevecos/data/graph_20250801150837.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250801150837.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250801150837.pdf , page1 u
-sed on input line 210.
-(luatex.def)             Requested size: 175.58432pt x 90.98178pt.
-File: /home/stevecos/data/graph_20250801150837.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250801150837.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250801150837.pdf , page2 u
-sed on input line 210.
-(luatex.def)             Requested size: 160.4969pt x 113.81245pt.
-File: /home/stevecos/data/graph_20250801163425.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250801163425.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250801163425.pdf , page1 u
-sed on input line 240.
-(luatex.def)             Requested size: 175.57578pt x 67.01282pt.
-File: /home/stevecos/data/graph_20250801163425.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250801163425.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250801163425.pdf , page2 u
-sed on input line 240.
-(luatex.def)             Requested size: 175.58069pt x 38.12352pt.
-
-
-[3</home/stevecos/data/graph_20250801112448.pdf></home/stevecos/data/graph_20250
-801112448.pdf></home/stevecos/data/graph_20250801150837.pdf></home/stevecos/data
-/graph_20250801150837.pdf>]
-File: /home/stevecos/data/graph_20250804093233.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250804093233.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250804093233.pdf , page1 u
-sed on input line 270.
-(luatex.def)             Requested size: 175.57578pt x 67.01282pt.
-File: /home/stevecos/data/graph_20250804093233.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250804093233.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250804093233.pdf , page2 u
-sed on input line 270.
-(luatex.def)             Requested size: 175.58069pt x 38.12352pt.
-File: /home/stevecos/data/graph_20250804111920.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250804111920.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250804111920.pdf , page1 u
-sed on input line 300.
-(luatex.def)             Requested size: 175.57578pt x 67.01282pt.
-File: /home/stevecos/data/graph_20250804111920.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250804111920.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250804111920.pdf , page2 u
-sed on input line 300.
-(luatex.def)             Requested size: 175.58069pt x 38.12352pt.
-
-
-[4</home/stevecos/data/graph_20250801163425.pdf></home/stevecos/data/graph_20250
-801163425.pdf></home/stevecos/data/graph_20250804093233.pdf></home/stevecos/data
-/graph_20250804093233.pdf>]
-File: /home/stevecos/data/graph_20250804132307.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250804132307.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250804132307.pdf , page1 u
-sed on input line 330.
-(luatex.def)             Requested size: 98.82198pt x 113.81097pt.
-File: /home/stevecos/data/graph_20250804132307.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250804132307.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250804132307.pdf , page2 u
-sed on input line 330.
-(luatex.def)             Requested size: 175.57672pt x 32.56819pt.
-File: /home/stevecos/data/graph_20250804142226.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250804142226.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250804142226.pdf , page1 u
-sed on input line 360.
-(luatex.def)             Requested size: 120.80849pt x 113.81137pt.
-
-
-[5</home/stevecos/data/graph_20250804111920.pdf></home/stevecos/data/graph_20250
-804111920.pdf></home/stevecos/data/graph_20250804132307.pdf></home/stevecos/data
-/graph_20250804132307.pdf>]
-File: /home/stevecos/data/graph_20250804201952.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250804201952.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250804201952.pdf , page1 u
-sed on input line 390.
-(luatex.def)             Requested size: 120.80849pt x 113.81137pt.
-File: /home/stevecos/data/graph_20250804204450.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250804204450.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250804204450.pdf , page1 u
-sed on input line 420.
-(luatex.def)             Requested size: 120.80849pt x 113.81137pt.
-
-
-[6</home/stevecos/data/graph_20250804142226.pdf></home/stevecos/data/graph_20250
-804201952.pdf>]
-File: /home/stevecos/data/graph_20250804205225.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250804205225.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250804205225.pdf , page1 u
-sed on input line 450.
-(luatex.def)             Requested size: 119.21243pt x 113.81142pt.
-File: /home/stevecos/data/graph_20250804205225.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250804205225.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250804205225.pdf , page2 u
-sed on input line 450.
-(luatex.def)             Requested size: 175.58038pt x 33.03293pt.
-File: /home/stevecos/data/graph_20250806171345.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250806171345.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250806171345.pdf , page1 u
-sed on input line 480.
-(luatex.def)             Requested size: 118.80309pt x 113.8112pt.
-File: /home/stevecos/data/graph_20250806171345.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250806171345.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250806171345.pdf , page2 u
-sed on input line 480.
-(luatex.def)             Requested size: 175.57062pt x 33.22481pt.
-
-
-[7</home/stevecos/data/graph_20250804204450.pdf></home/stevecos/data/graph_20250
-804205225.pdf></home/stevecos/data/graph_20250804205225.pdf>]
-File: /home/stevecos/data/graph_20250807122541.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250807122541.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250807122541.pdf , page1 u
-sed on input line 510.
-(luatex.def)             Requested size: 118.80309pt x 113.8112pt.
-File: /home/stevecos/data/graph_20250807122541.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250807122541.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250807122541.pdf , page2 u
-sed on input line 510.
-(luatex.def)             Requested size: 175.57062pt x 33.22481pt.
-File: /home/stevecos/data/graph_20250812105329.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812105329.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250812105329.pdf , page1 u
-sed on input line 540.
-(luatex.def)             Requested size: 118.80309pt x 113.8112pt.
-File: /home/stevecos/data/graph_20250812105329.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812105329.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250812105329.pdf , page2 u
-sed on input line 540.
-(luatex.def)             Requested size: 175.57062pt x 33.22481pt.
-
-
-[8</home/stevecos/data/graph_20250806171345.pdf></home/stevecos/data/graph_20250
-806171345.pdf></home/stevecos/data/graph_20250807122541.pdf></home/stevecos/data
-/graph_20250807122541.pdf>]
-File: /home/stevecos/data/graph_20250812114659.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812114659.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250812114659.pdf , page1 u
-sed on input line 630.
-(luatex.def)             Requested size: 118.80309pt x 113.8112pt.
-File: /home/stevecos/data/graph_20250812114659.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812114659.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250812114659.pdf , page2 u
-sed on input line 630.
-(luatex.def)             Requested size: 175.57062pt x 33.22481pt.
-
-
-[9</home/stevecos/data/graph_20250812105329.pdf></home/stevecos/data/graph_20250
-812105329.pdf>]
-File: /home/stevecos/data/graph_20250812133158.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812133158.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250812133158.pdf , page1 u
-sed on input line 660.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-File: /home/stevecos/data/graph_20250812133158.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812133158.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250812133158.pdf , page2 u
-sed on input line 660.
-(luatex.def)             Requested size: 83.9442pt x 113.81255pt.
-File: /home/stevecos/data/graph_20250812145242.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812145242.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250812145242.pdf , page1 u
-sed on input line 690.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-File: /home/stevecos/data/graph_20250812145242.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250812145242.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250812145242.pdf , page2 u
-sed on input line 690.
-(luatex.def)             Requested size: 83.9442pt x 113.81255pt.
-
-
-[10</home/stevecos/data/graph_20250812114659.pdf></home/stevecos/data/graph_2025
-0812114659.pdf></home/stevecos/data/graph_20250812133158.pdf></home/stevecos/dat
-a/graph_20250812133158.pdf>]
-File: /home/stevecos/data/graph_20250813163029.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250813163029.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250813163029.pdf , page1 u
-sed on input line 720.
-(luatex.def)             Requested size: 175.58023pt x 56.14029pt.
-File: /home/stevecos/data/graph_20250813163029.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250813163029.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250813163029.pdf , page2 u
-sed on input line 720.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-File: /home/stevecos/data/graph_20250813192232.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250813192232.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250813192232.pdf , page1 u
-sed on input line 750.
-(luatex.def)             Requested size: 175.58023pt x 56.14029pt.
-File: /home/stevecos/data/graph_20250813192232.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250813192232.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250813192232.pdf , page2 u
-sed on input line 750.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-
-
-[11</home/stevecos/data/graph_20250812145242.pdf></home/stevecos/data/graph_2025
-0812145242.pdf></home/stevecos/data/graph_20250813163029.pdf></home/stevecos/dat
-a/graph_20250813163029.pdf>]
-File: /home/stevecos/data/graph_20250813211618.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250813211618.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250813211618.pdf , page1 u
-sed on input line 780.
-(luatex.def)             Requested size: 175.58023pt x 56.14029pt.
-File: /home/stevecos/data/graph_20250813211618.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250813211618.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250813211618.pdf , page2 u
-sed on input line 780.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-File: /home/stevecos/data/graph_20250814113859.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250814113859.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250814113859.pdf , page1 u
-sed on input line 810.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-File: /home/stevecos/data/graph_20250814113859.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250814113859.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250814113859.pdf , page2 u
-sed on input line 810.
-(luatex.def)             Requested size: 107.77495pt x 113.81311pt.
-
-
-[12</home/stevecos/data/graph_20250813192232.pdf></home/stevecos/data/graph_2025
-0813192232.pdf></home/stevecos/data/graph_20250813211618.pdf></home/stevecos/dat
-a/graph_20250813211618.pdf>]
-File: /home/stevecos/data/graph_20250814121756.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250814121756.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250814121756.pdf , page1 u
-sed on input line 840.
-(luatex.def)             Requested size: 175.58023pt x 56.14029pt.
-File: /home/stevecos/data/graph_20250814121756.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250814121756.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250814121756.pdf , page2 u
-sed on input line 840.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-File: /home/stevecos/data/graph_20250814174841.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250814174841.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250814174841.pdf , page1 u
-sed on input line 870.
-(luatex.def)             Requested size: 175.58023pt x 56.14029pt.
-File: /home/stevecos/data/graph_20250814174841.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250814174841.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250814174841.pdf , page2 u
-sed on input line 870.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-
-
-[13</home/stevecos/data/graph_20250814113859.pdf></home/stevecos/data/graph_2025
-0814113859.pdf></home/stevecos/data/graph_20250814121756.pdf></home/stevecos/dat
-a/graph_20250814121756.pdf>]
-File: /home/stevecos/data/graph_20250814182352.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250814182352.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250814182352.pdf , page1 u
-sed on input line 900.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-File: /home/stevecos/data/graph_20250814182352.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250814182352.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250814182352.pdf , page2 u
-sed on input line 900.
-(luatex.def)             Requested size: 175.5795pt x 67.35489pt.
-File: /home/stevecos/data/graph_20250814205201.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250814205201.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250814205201.pdf , page1 u
-sed on input line 930.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-File: /home/stevecos/data/graph_20250814205201.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250814205201.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250814205201.pdf , page2 u
-sed on input line 930.
-(luatex.def)             Requested size: 124.49672pt x 113.81468pt.
-
-
-[14</home/stevecos/data/graph_20250814174841.pdf></home/stevecos/data/graph_2025
-0814174841.pdf></home/stevecos/data/graph_20250814182352.pdf></home/stevecos/dat
-a/graph_20250814182352.pdf>]
-File: /home/stevecos/data/graph_20250818105551.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250818105551.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250818105551.pdf , page1 u
-sed on input line 960.
-(luatex.def)             Requested size: 175.5766pt x 24.52357pt.
-File: /home/stevecos/data/graph_20250818105551.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250818105551.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250818105551.pdf , page2 u
-sed on input line 960.
-(luatex.def)             Requested size: 175.57224pt x 41.67871pt.
-File: /home/stevecos/data/graph_20250818124554.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250818124554.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250818124554.pdf , page1 u
-sed on input line 990.
-(luatex.def)             Requested size: 175.5766pt x 24.52357pt.
-File: /home/stevecos/data/graph_20250818124554.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250818124554.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250818124554.pdf , page2 u
-sed on input line 990.
-(luatex.def)             Requested size: 175.57224pt x 41.67871pt.
-
-
-[15</home/stevecos/data/graph_20250814205201.pdf></home/stevecos/data/graph_2025
-0814205201.pdf></home/stevecos/data/graph_20250818105551.pdf></home/stevecos/dat
-a/graph_20250818105551.pdf>]
-File: /home/stevecos/data/graph_20250819144928.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819144928.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250819144928.pdf , page1 u
-sed on input line 1020.
-(luatex.def)             Requested size: 175.5766pt x 24.52357pt.
-File: /home/stevecos/data/graph_20250819144928.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819144928.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250819144928.pdf , page2 u
-sed on input line 1020.
-(luatex.def)             Requested size: 175.57224pt x 41.67871pt.
-File: /home/stevecos/data/graph_20250819153508.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819153508.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250819153508.pdf , page1 u
-sed on input line 1050.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-File: /home/stevecos/data/graph_20250819153508.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819153508.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250819153508.pdf , page2 u
-sed on input line 1050.
-(luatex.def)             Requested size: 76.2155pt x 113.81108pt.
-
-
-[16</home/stevecos/data/graph_20250818124554.pdf></home/stevecos/data/graph_2025
-0818124554.pdf></home/stevecos/data/graph_20250819144928.pdf></home/stevecos/dat
-a/graph_20250819144928.pdf>]
-File: /home/stevecos/data/graph_20250819155518.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819155518.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250819155518.pdf , page1 u
-sed on input line 1080.
-(luatex.def)             Requested size: 175.5766pt x 24.52357pt.
-File: /home/stevecos/data/graph_20250819155518.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819155518.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250819155518.pdf , page2 u
-sed on input line 1080.
-(luatex.def)             Requested size: 55.14157pt x 113.80952pt.
-File: /home/stevecos/data/graph_20250819161044.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819161044.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250819161044.pdf , page1 u
-sed on input line 1110.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-File: /home/stevecos/data/graph_20250819161044.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819161044.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250819161044.pdf , page2 u
-sed on input line 1110.
-(luatex.def)             Requested size: 107.77495pt x 113.81311pt.
-
-
-[17</home/stevecos/data/graph_20250819153508.pdf></home/stevecos/data/graph_2025
-0819153508.pdf></home/stevecos/data/graph_20250819155518.pdf></home/stevecos/dat
-a/graph_20250819155518.pdf>]
-File: /home/stevecos/data/graph_20250819161044.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819161044.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250819161044.pdf , page1 u
-sed on input line 1140.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-File: /home/stevecos/data/graph_20250819161044.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819161044.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250819161044.pdf , page2 u
-sed on input line 1140.
-(luatex.def)             Requested size: 107.77495pt x 113.81311pt.
-File: /home/stevecos/data/graph_20250819161044.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819161044.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250819161044.pdf , page1 u
-sed on input line 1170.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-File: /home/stevecos/data/graph_20250819161044.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819161044.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250819161044.pdf , page2 u
-sed on input line 1170.
-(luatex.def)             Requested size: 107.77495pt x 113.81311pt.
-
-
-[18</home/stevecos/data/graph_20250819161044.pdf></home/stevecos/data/graph_2025
-0819161044.pdf>]
-File: /home/stevecos/data/graph_20250819144928.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819144928.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250819144928.pdf , page1 u
-sed on input line 1200.
-(luatex.def)             Requested size: 175.5766pt x 24.52357pt.
-File: /home/stevecos/data/graph_20250819144928.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819144928.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250819144928.pdf , page2 u
-sed on input line 1200.
-(luatex.def)             Requested size: 175.57224pt x 41.67871pt.
-File: /home/stevecos/data/graph_20250819153508.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819153508.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250819153508.pdf , page1 u
-sed on input line 1230.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-File: /home/stevecos/data/graph_20250819153508.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819153508.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250819153508.pdf , page2 u
-sed on input line 1230.
-(luatex.def)             Requested size: 76.2155pt x 113.81108pt.
-
-
-[19]
-File: /home/stevecos/data/graph_20250819155518.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819155518.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250819155518.pdf , page1 u
-sed on input line 1260.
-(luatex.def)             Requested size: 175.5766pt x 24.52357pt.
-File: /home/stevecos/data/graph_20250819155518.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819155518.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250819155518.pdf , page2 u
-sed on input line 1260.
-(luatex.def)             Requested size: 55.14157pt x 113.80952pt.
-File: /home/stevecos/data/graph_20250819161044.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819161044.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250819161044.pdf , page1 u
-sed on input line 1290.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-File: /home/stevecos/data/graph_20250819161044.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819161044.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250819161044.pdf , page2 u
-sed on input line 1290.
-(luatex.def)             Requested size: 107.77495pt x 113.81311pt.
-
-
-[20]
-File: /home/stevecos/data/graph_20250819212731.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819212731.pdf, page 1>
-Package luatex.def Info: /home/stevecos/data/graph_20250819212731.pdf , page1 u
-sed on input line 1320.
-(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
-File: /home/stevecos/data/graph_20250819212731.pdf Graphic file (type pdf)
-<use /home/stevecos/data/graph_20250819212731.pdf, page 2>
-Package luatex.def Info: /home/stevecos/data/graph_20250819212731.pdf , page2 u
-sed on input line 1320.
-(luatex.def)             Requested size: 175.57512pt x 40.96461pt.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 File: /home/stevecos/data/graph_20250820122146.pdf Graphic file (type pdf)
 <use /home/stevecos/data/graph_20250820122146.pdf, page 1>
 Package luatex.def Info: /home/stevecos/data/graph_20250820122146.pdf , page1 u
-sed on input line 1350.
+sed on input line 80.
 (luatex.def)             Requested size: 175.57742pt x 24.46867pt.
 File: /home/stevecos/data/graph_20250820122146.pdf Graphic file (type pdf)
 <use /home/stevecos/data/graph_20250820122146.pdf, page 2>
 Package luatex.def Info: /home/stevecos/data/graph_20250820122146.pdf , page2 u
-sed on input line 1350.
+sed on input line 80.
+(luatex.def)             Requested size: 175.57512pt x 40.96461pt.
+File: /home/stevecos/data/graph_20250820122146.pdf Graphic file (type pdf)
+<use /home/stevecos/data/graph_20250820122146.pdf, page 1>
+Package luatex.def Info: /home/stevecos/data/graph_20250820122146.pdf , page1 u
+sed on input line 110.
+(luatex.def)             Requested size: 175.57742pt x 24.46867pt.
+File: /home/stevecos/data/graph_20250820122146.pdf Graphic file (type pdf)
+<use /home/stevecos/data/graph_20250820122146.pdf, page 2>
+Package luatex.def Info: /home/stevecos/data/graph_20250820122146.pdf , page2 u
+sed on input line 110.
 (luatex.def)             Requested size: 175.57512pt x 40.96461pt.
 
 
-[21</home/stevecos/data/graph_20250819212731.pdf></home/stevecos/data/graph_2025
-0819212731.pdf>]
-
-[22</home/stevecos/data/graph_20250820122146.pdf></home/stevecos/data/graph_2025
-0820122146.pdf>] (./SimSummary.aux)
+[2</home/stevecos/data/graph_20250820122146.pdf></home/stevecos/data/graph_20250
+820122146.pdf>] (./SimSummary.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
@@ -1035,25 +830,24 @@ Package rerunfilecheck Info: File `SimSummary.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 14470 strings out of 471925
+ 13449 strings out of 471925
  100000,794899 words of node,token memory allocated
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 2:1266,3:253,4:21,5:189,6:143,7:2231,8:1,9:1161,10:4,11:22
- 40136 multiletter control sequences out of 65536+600000
- 65 fonts using 10044087 bytes
- 73i,15n,92p,276b,419s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/pkg/share/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></usr/p
-kg/share/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/pkg/sha
-re/fonts/X11/TTF/DejaVuSansMono.ttf></usr/pkg/share/texmf-dist/fonts/opentype/pu
-blic/lm/lmroman10-bold.otf></usr/pkg/share/texmf-dist/fonts/opentype/public/lm/l
-mroman12-regular.otf></usr/pkg/share/texmf-dist/fonts/opentype/public/lm/lmroman
-17-regular.otf>
-Output written on SimSummary.pdf (22 pages, 295305 bytes).
+   avail lists: 2:856,3:206,4:21,5:136,6:96,7:1689,8:1,9:790,10:4,11:27
+ 39804 multiletter control sequences out of 65536+600000
+ 64 fonts using 9912399 bytes
+ 73i,15n,92p,276b,420s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/pkg/share/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></usr/pkg
+/share/fonts/X11/TTF/DejaVuSansMono.ttf></usr/pkg/share/texmf-dist/fonts/opentyp
+e/public/lm/lmroman10-regular.otf></usr/pkg/share/texmf-dist/fonts/opentype/publ
+ic/lm/lmroman12-regular.otf></usr/pkg/share/texmf-dist/fonts/opentype/public/lm/
+lmroman17-regular.otf>
+Output written on SimSummary.pdf (2 pages, 40667 bytes).
 
-PDF statistics: 562 PDF objects out of 1000 (max. 8388607)
- 344 compressed objects within 4 object streams
- 23 named destinations out of 1000 (max. 131072)
+PDF statistics: 64 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
