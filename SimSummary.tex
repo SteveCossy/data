@@ -14,6 +14,7 @@
 \begin{document}
 
 
+
 \title{Simulation Run Summary}
 \author{Contiki-NG RPL Project}
 \date{\today}
@@ -104,6 +105,36 @@
     \hfill
     \begin{minipage}[t]{0.49\linewidth}
         \centering \textbf{DODAG 2 Graph}\\ \includegraphics[page=2, width=0.48\linewidth, height=4cm, keepaspectratio]{/home/stevecos/data/graph_20250820122146.pdf}
+    \end{minipage}
+} \\
+\hline
+\end{tabularx}
+\vspace{1cm}
+
+
+% --- Entry for simulation unknown ---
+\noindent
+\begin{tabularx}{\linewidth}{| p{2.5cm} | p{3.5cm} | p{5cm} | X |}
+\hline
+% --- ROW 1 ---
+\textbf{Start Time} & \textbf{Sim Run ID} & \textbf{Run Date} & \textbf{Notes} \\
+\texttt{16:10:44} & \texttt{unknown} & \texttt{Aug 19} & \\
+\hline % Changed from cline to hline for a full line
+% --- ROW 2 ---
+\textbf{Finish Time} & \multicolumn{2}{l|}{\textbf{MOP \& OFs}} & \\ % Merged MOP & OFs header
+\cline{1-1} \cline{2-4} % <-- FIX 3: Corrected cline for notes
+\texttt{N/A} & \multicolumn{2}{p{8.5cm}|}{\begin{minipage}[t]{\linewidth}\raggedright \texttt{N/A} \\ 
+\texttt{19:59.815 Node:4 :rpl\_set DODAGID:fd00::209:9:9:9 will be fe80::209:9:9:9.19:59.815 Node:4 :[DBG : RPL       ] Considering parent: fd02::209:9:9:9, Rank: 65535, out of 3615, inst: 46}\end{minipage}} & \\ % Merged data cell
+
+\hline
+\multicolumn{4}{|p{\dimexpr\textwidth-2\tabcolsep-1.2pt\relax}|}{%
+    \centering
+    \begin{minipage}[t]{0.49\linewidth}
+        \centering \textbf{DODAG 1 Graph}\\ \textit{(Graph 1 not found)}
+    \end{minipage}
+    \hfill
+    \begin{minipage}[t]{0.49\linewidth}
+        \centering \textbf{DODAG 2 Graph}\\ 
     \end{minipage}
 } \\
 \hline
