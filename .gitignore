@@ -1,0 +1,13 @@
+*.dtmp
+*.bkp
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.aux
+*.fls
+*.xml
+*.bcf
+*.fdb*
+*.bbl*
