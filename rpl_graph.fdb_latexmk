@@ -1,8 +1,8 @@
 # Fdb version 4
-["lualatex"] 1755666207.42697 "/home/stevecos/data/rpl_graph.tex" "rpl_graph.pdf" "rpl_graph" 1755666208.38366 0
+["lualatex"] 1755743578.78514 "/home/stevecos/data/rpl_graph.tex" "rpl_graph.pdf" "rpl_graph" 1755743579.70015 0
   "/home/stevecos/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1751423737.55776 127318 f9d6c0d97a32898232a4e270441cdf37 ""
   "/home/stevecos/.texlive2025/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1751423737.47759 299389 a5e829c2c4ced362834ea26afb0cdf16 ""
-  "/home/stevecos/data/rpl_graph.tex" 1755666206.88993 1401 fc54cdcdcfcfe9782d2bec4924d5ab79 ""
+  "/home/stevecos/data/rpl_graph.tex" 1755743578.39734 1226 141fe7fdd379cfd19180a8624605a255 ""
   "/usr/pkg/share/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf" 1749727390 111536 ae9d1b331000d544f47e5223081b7b54 ""
   "/usr/pkg/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1749772588 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/pkg/share/texmf-dist/tex/generic/iftex/ifluatex.sty" 1749545615 492 1994775aa15b0d1289725a0b1bbc2d4c ""
@@ -215,8 +215,8 @@
   "/usr/pkg/share/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1749779518 13566 16df94dd2de231b2bca0aaa0190941fe ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1753397656 3658076 433b79a69db6851b9a82d91270c6f410 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1749783450 6381498 b3d166c729a775aa4864aeef1df26aa9 ""
-  "rpl_graph.aux" 1755666208.31126 32 044b7f8fc9779af7531264e0c5c84b6d "lualatex"
-  "rpl_graph.tex" 1755666206.88993 1401 fc54cdcdcfcfe9782d2bec4924d5ab79 ""
+  "rpl_graph.aux" 1755743579.63603 32 044b7f8fc9779af7531264e0c5c84b6d "lualatex"
+  "rpl_graph.tex" 1755743578.39734 1226 141fe7fdd379cfd19180a8624605a255 ""
   (generated)
   "rpl_graph.aux"
   "rpl_graph.log"

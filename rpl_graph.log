@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.21.0 (Web2C 2025)  (format=lualatex 2025.6.13)  20 AUG 2025 17:03
+This is LuaTeX, Version 1.21.0 (Web2C 2025)  (format=lualatex 2025.6.13)  21 AUG 2025 14:32
  restricted system commands enabled.
 **/home/stevecos/data/rpl_graph.tex
 (/home/stevecos/data/rpl_graph.tex
@@ -469,17 +469,17 @@ L3 programming layer <2025-04-14>
 )
 
 Here is how much of LuaTeX's memory you used:
- 14727 strings out of 471925
+ 14643 strings out of 471925
  125016,794899 words of node,token memory allocated
  413 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 48 glue_spec,
  5 attribute_list, 2 write nodes
-   avail lists: 1:10,2:2600,3:2090,4:22,5:22,6:2,7:3218,9:636
- 40932 multiletter control sequences out of 65536+600000
+   avail lists: 1:9,2:1880,3:1514,4:22,5:22,6:2,7:2309,9:468
+ 40848 multiletter control sequences out of 65536+600000
  15 fonts using 723367 bytes
  117i,10n,114p,449b,1255s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/pkg/share/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on rpl_graph.pdf (2 pages, 6907 bytes).
+Output written on rpl_graph.pdf (2 pages, 5928 bytes).
 
 PDF statistics: 21 PDF objects out of 1000 (max. 8388607)
  13 compressed objects within 1 object stream
